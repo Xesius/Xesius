@@ -19,7 +19,7 @@
 ---
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/303912023765549056?bg=)](https://discord.com/users/303912023765549056)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=83dye00ov9jjglf57p83d0bjb&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 <!--
 **Xesius/Xesius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
