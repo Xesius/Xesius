@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 
+
 ---
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/303912023765549056?bg=)](https://discord.com/users/303912023765549056)
