@@ -5,7 +5,6 @@
 
 ---
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/303912023765549056?bg=)](https://discord.com/users/303912023765549056)
 
 
 <!--
